@@ -1,3 +1,5 @@
+live preview : https://travel-itinerary-planner-five.vercel.app/
+
 # React Itinerary Planner
 
 A modern, interactive travel itinerary planner built with React, Tailwind CSS, and drag-and-drop support. Plan your trip day-by-day, add activities, view weather, and manage your schedule with a beautiful UI and dark mode support.
@@ -67,7 +69,10 @@ src/
 - **Keyboard shortcuts:** Press `?` for help.
 
 ---
+# output
+![image](https://github.com/user-attachments/assets/bca9a58c-53e0-42bc-8428-8001c7efa75f)
 
+---
 ## ⚙️ Customization
 
 - **Weather:** The weather widget uses simulated data. Integrate a real API for live weather.
